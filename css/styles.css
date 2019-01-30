@@ -158,7 +158,8 @@ nav h1 a {
   margin: 0;
   padding: 30px 15px 60px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   align-items: center;
   text-align: center;
 }
